@@ -61,7 +61,7 @@ const ExperienceComponent: React.FC<ExperienceComponentProps> = ({
                 <p className="text-sm font-medium text-gray-500 mb-4">
                   {exp.startDate} - {exp.endDate || "Present"}
                 </p>
-                <ul className="space-y-2">
+                <ul className="list-disc list-inside mt-1 text-sm">
                   {exp.responsibilities.map((resp, respIndex) => (
                     <li key={respIndex} className="text-sm text-gray-700">
                       {resp}
