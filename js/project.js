@@ -88,10 +88,15 @@ function renderFooter(hero) {
     <footer class="site-footer">
       <div class="container">
         <p>${escapeHtml(hero.name)}</p>
-        <div class="social-links">
-          <a href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          <a href="mailto:${escapeHtml(hero.email)}">Email</a>
+        <div class="footer-social">
+          <a href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">
+            ${icons.github}
+            <span class="sr-only">GitHub</span>
+          </a>
+          <a href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">
+            ${icons.linkedin}
+            <span class="sr-only">LinkedIn</span>
+          </a>
         </div>
       </div>
     </footer>

@@ -30,8 +30,8 @@ Juan Hernandez, PharmD
 
 # WORK EXPERIENCE
 
-## Advanced Analytics Engagement Manager — Imaavy
-**Mar 2025 – Present**
+## Advanced Analytics Engagement Manager — Johnson & Johnson
+**Mar 2025 – Present** *(Horsham, PA)*
 
 * **Strategic Targeting & Revenue Growth:** Developed and implemented a commercial HCP trigger strategy that proved 3.6x more effective than standard calls, generating an additional $3.3M in revenue while independently managing a $500K project budget.
 * **Cross-Functional Leadership:** Spearheaded commercial targeting initiatives, aligning brand, integrated analytics, sales, and deployment operations teams to ensure trigger and targeting strategies supported overarching brand goals.
@@ -55,7 +55,7 @@ Juan Hernandez, PharmD
 * Curated newsletters and alerts on market trends for 250+ stakeholders; managed syndicated vendor relationships and organized a market research vendor fair.
 
 ## Pharmacist — Walgreens
-**Nov 2024 – Present** *(Burlington, NJ)*
+**Nov 2024 – Mar 2025** *(Burlington, NJ)*
 
 * Provided patient-centered care including medication consultations, OTC recommendations, and insurance issue resolution.
 * Conducted medication therapy management reviews utilizing evidence-based treatment guidelines.

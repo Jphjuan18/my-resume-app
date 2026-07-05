@@ -14,18 +14,24 @@ function renderHero(hero) {
   return `
     <section class="hero">
       <div class="container hero-grid">
-        <div>
-          <h1>${escapeHtml(hero.name)}</h1>
-          <p class="subtitle">${escapeHtml(hero.title)}</p>
-          <div class="contact-links">
-            <a class="btn btn-primary" href="mailto:${escapeHtml(hero.email)}">Email</a>
-            <a class="btn" href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a class="btn" href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <span class="btn">${escapeHtml(hero.phone)}</span>
+        <div class="hero-content">
+          <div>
+            <h1>${escapeHtml(hero.name)}</h1>
+            <p class="subtitle">${escapeHtml(hero.title)}</p>
+          </div>
+          <div class="social-links">
+            <a class="btn btn-primary" href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">
+              ${icons.github}
+              Github
+            </a>
+            <a class="btn btn-outline" href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">
+              ${icons.linkedin}
+              Linkedin
+            </a>
           </div>
         </div>
         <div class="hero-image">
-          <img src="assets/headshot.png" alt="${escapeHtml(hero.name)}" width="280" height="280" />
+          <img src="assets/headshot.png" alt="${escapeHtml(hero.name)}" width="600" height="600" />
         </div>
       </div>
     </section>
@@ -46,7 +52,7 @@ function renderEducation(education) {
     .join("");
 
   return `
-    <section id="education">
+    <section id="education-and-skills">
       <div class="container">
         <h2 class="section-title">Education &amp; Licensure</h2>
         <div class="grid-2">
@@ -126,7 +132,7 @@ function renderAwards(awards) {
     .join("");
 
   return `
-    <section id="awards">
+    <section id="awards-and-leadership">
       <div class="container">
         <h2 class="section-title">Awards &amp; Recognitions</h2>
         <div class="card"><div class="card-body">${items}</div></div>
@@ -189,10 +195,15 @@ function renderFooter(hero) {
     <footer class="site-footer">
       <div class="container">
         <p>${escapeHtml(hero.name)}</p>
-        <div class="social-links">
-          <a href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          <a href="mailto:${escapeHtml(hero.email)}">Email</a>
+        <div class="footer-social">
+          <a href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">
+            ${icons.github}
+            <span class="sr-only">GitHub</span>
+          </a>
+          <a href="${escapeHtml(hero.linkedin)}" target="_blank" rel="noopener noreferrer">
+            ${icons.linkedin}
+            <span class="sr-only">LinkedIn</span>
+          </a>
         </div>
       </div>
     </footer>
