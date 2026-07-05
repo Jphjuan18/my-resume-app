@@ -1,0 +1,280 @@
+{
+  "hero": {
+    "name": "Juan Hernandez, PharmD",
+    "title": "Advanced Analytics Engagement Manager · PharmD · Data & AI",
+    "email": "Jphjuan18@gmail.com",
+    "phone": "303.725.6339",
+    "linkedin": "https://www.linkedin.com/in/juanhernandezpharmd/",
+    "github": "https://github.com/Jphjuan18"
+  },
+  "education": [
+    {
+      "degree": "Doctor of Pharmacy",
+      "institution": "Regis University (Denver, CO)",
+      "date": "May 2023"
+    },
+    {
+      "degree": "Board Certified Pharmacist (BCP), New Jersey",
+      "institution": "License Number: 28RI04405400",
+      "date": "Nov 2024"
+    },
+    {
+      "degree": "Foundations of Data Science for Machine Learning",
+      "institution": null,
+      "date": "Jan 2025"
+    },
+    {
+      "degree": "Codecademy SQL Certificate",
+      "institution": null,
+      "date": "Oct 2022"
+    },
+    {
+      "degree": "Regis Intro to Data Science / Data Engineering",
+      "institution": null,
+      "date": "Apr 2022"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Expertise with Large Pharmaceutical Datasets",
+      "items": ["MMIT", "Policy Reporter", "CMS", "IQVIA", "Definitive Healthcare"]
+    },
+    {
+      "category": "Data Collecting, Cleaning and Analysis",
+      "items": ["Python", "SQL", "Microsoft Excel", "Scikit-learn", "PySpark"]
+    },
+    {
+      "category": "Data Visualization and Presentation",
+      "items": ["Tableau", "Microsoft Excel", "Matplotlib", "Streamlit"]
+    },
+    {
+      "category": "Full-stack & UI Development",
+      "items": ["React", "Next.js", "Flask", "Streamlit", "Tailwind CSS", "Shadcn", "MUI"]
+    },
+    {
+      "category": "GenAI",
+      "items": ["OpenAI", "Azure OpenAI", "AWS Bedrock", "Langchain", "Llamaindex", "CrewAI", "Flowise", "OpenAI Assistants"]
+    },
+    {
+      "category": "Vector DB",
+      "items": ["Postgres", "Chromadb", "Qdrant"]
+    },
+    {
+      "category": "Cloud Management",
+      "items": ["AWS", "Azure", "Google Cloud", "Vercel", "Railway", "Linode", "Docker", "Kubernetes", "Git", "GitHub", "BitBucket"]
+    },
+    {
+      "category": "Commercial Analytics & ML",
+      "items": ["Predictive Modeling", "Investment Mix Modeling", "HCP Targeting & Segmentation", "Veeva", "Multiple Linear Regression"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Advanced Analytics Engagement Manager",
+      "company": "Imaavy",
+      "location": null,
+      "startDate": "Mar 2025",
+      "endDate": "Present",
+      "responsibilities": [
+        "Developed and implemented a commercial HCP trigger strategy that proved 3.6x more effective than standard calls, generating an additional $3.3M in revenue while independently managing a $500K project budget.",
+        "Spearheaded commercial targeting initiatives, aligning brand, integrated analytics, sales, and deployment operations teams to ensure trigger and targeting strategies supported overarching brand goals.",
+        "Built and deployed an adaptive learner AI model utilizing multiple linear regression to optimize feature weights for DEP targeting, validating and refining methodology against primary competitors and early adopters.",
+        "Led commercial investment mix modeling and budget optimization scenarios, presenting channel-level historical performance and strategic deep dives directly to senior leadership.",
+        "Navigated complex edge cases and shifting field requirements by executing a hyper-targeted Q4 2025 campaign—reducing the target universe by 50%—and seamlessly transitioning to ML-optimized targeting in Q1 2026.",
+        "Co-developed advanced data analyses alongside the ZS team to drive overall feature and behavior understanding, utilizing metrics such as 6-month GMG patient counts and developing strategies to accurately evaluate HCPs with incomplete data.",
+        "Led comprehensive HCP segmentation initiatives designed to directly improve field recall and optimize targeted messaging.",
+        "Presented analytics enhancements and roadmap to the entire field team during Point of Action (POA) broadcasts; led weekly core stakeholder calls and monthly \"Winning with Veeva\" field insight sessions."
+      ]
+    },
+    {
+      "title": "Business Intelligence (BI) Manager, Market Access Insights and Analytics",
+      "company": "Johnson & Johnson / Rutgers Pharmaceutical Industry Fellowship",
+      "location": "Titusville, NJ",
+      "startDate": "Jul 2023",
+      "endDate": "Mar 2025",
+      "responsibilities": [
+        "Developed and maintained a tracking dashboard using MMIT data to monitor live shifts during the PBM selling season, offering GTN teams insights into account movement trends and potential impacts on specific contracts.",
+        "Utilized CMS data to create Medicare plan sponsor profiles and assess annual enrollment trends, integrating metrics on enrollment, benchmark plans, coinsurance, copay, premiums, and stars for national payers.",
+        "Leveraged Clarivate, Definitive Healthcare, and Darwin databases, along with private equity sources, to inform stakeholders on strategic interests in urology practices with private equity ownership.",
+        "Delivered leadership presentations on formulary exclusions, private equity in healthcare, medical and oncology benefit managers, and payviders.",
+        "Led development and deployment of AI-driven solutions including MAIA Chat, a search and summary tool, from proof of concept to production.",
+        "Developed data pipelines for RAG applications integrating SharePoint, RSS feeds, public domain, and Amazon S3 data into vector databases.",
+        "Built automated document summarization and earnings call summary tools using NLP and generative AI.",
+        "Curated newsletters and alerts on market trends for 250+ stakeholders; managed syndicated vendor relationships and organized a market research vendor fair."
+      ]
+    },
+    {
+      "title": "Pharmacist",
+      "company": "Walgreens",
+      "location": "Burlington, NJ",
+      "startDate": "Nov 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Provided patient-centered care including medication consultations, OTC recommendations, and insurance issue resolution.",
+        "Conducted medication therapy management reviews using evidence-based treatment guidelines.",
+        "Verified prescriptions for accuracy and safety; administered vaccinations and addressed adherence barriers.",
+        "Managed pharmacy operations including inventory, medication ordering, and regulatory compliance."
+      ]
+    },
+    {
+      "title": "Freelance Web Developer",
+      "company": "Upwork",
+      "location": "Denver, CO",
+      "startDate": "Jan 2022",
+      "endDate": "2023",
+      "responsibilities": [
+        "Designed and launched tailored websites for various clients.",
+        "Developed an e-commerce platform for a fitness product with improved navigation and product presentation.",
+        "Built an Excel dashboard to track client purchasing patterns for a mortgage company."
+      ]
+    },
+    {
+      "title": "Pharmacy Intern",
+      "company": "Kroger",
+      "location": "Denver, CO",
+      "startDate": "Jan 2018",
+      "endDate": "2023",
+      "responsibilities": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "RPIF Above and Beyond Award",
+      "year": "2024",
+      "description": "Awarded for outstanding contributions in hosting a successful Vendor Day Fair and integrating AI innovations into the Business Intelligence function."
+    },
+    {
+      "title": "RPIF Celebration Award",
+      "year": "2023",
+      "description": "Honored for pioneering work using AI for business intelligence, particularly the development and pilot of MAIA Chat."
+    },
+    {
+      "title": "APPE Clinical Student of the Year",
+      "year": "2023",
+      "description": "Awarded for outstanding performance and excellence in clinical practice during the Advanced Pharmacy Practice Experience (APPE)."
+    }
+  ],
+  "posters": [
+    {
+      "title": "AI, NLP Applications in MR (primary, syndicated, secondary data)",
+      "date": "Feb 2024",
+      "description": "Held a roundtable discussion at PMRC (Pharmaceutical Market Research Conference) on AI and NLP in market research, focusing on applications, use cases, safety, and hallucinations."
+    },
+    {
+      "title": "Discount Card Analysis Presentation",
+      "date": "Oct 2022",
+      "description": "Presented preliminary results of the discount card analysis conducted in conjunction with faculty preceptor."
+    },
+    {
+      "title": "Seminar Presentation: Continuous Glucose Monitoring",
+      "date": "Oct 2022",
+      "description": "Prepared a presentation on various continuous glucose monitors (CGMs) and benefits over traditional fingerstick glucose monitoring."
+    }
+  ],
+  "projects": [
+    {
+      "id": "palomamed-genai",
+      "title": "PalomaMed GenAI Project",
+      "year": "2024",
+      "category": "Web Development",
+      "summary": "Generative AI-powered search tool for veterinary medications using agentic RAG techniques.",
+      "description": [
+        "PalomaMed is a generative AI-powered search tool built to help users find and understand veterinary medication information through natural language queries.",
+        "The project applies agentic RAG (Retrieval-Augmented Generation) techniques to combine structured medication data with LLM-powered reasoning, enabling more accurate and contextual responses than a standard keyword search.",
+        "Note: The live database is currently disabled, but the application shell and UI remain accessible for demonstration."
+      ],
+      "highlights": [
+        "Agentic RAG architecture for veterinary medication search",
+        "Natural language query interface",
+        "Full-stack web application with modern UI"
+      ],
+      "technologies": ["Python", "Langchain", "RAG", "Vector DB", "React", "Next.js"],
+      "links": [
+        { "label": "Live Demo", "url": "https://www.palomamed.com/" }
+      ]
+    },
+    {
+      "id": "discount-card-analysis",
+      "title": "Discount Card Analysis",
+      "year": "2022",
+      "category": "Personal Data Analytics",
+      "summary": "Analyzed variation in discount card prices by pharmacy type, median income, and insured-to-uninsured ratio.",
+      "description": [
+        "This project examined how prescription discount card pricing varies across retail pharmacy types, neighborhood median income levels, and insured-to-uninsured population ratios.",
+        "Data was collected from GoodRx, SingleCare, and ScriptSave WellRx across 12 pharmacies in 4 zip codes, covering 16 different drugs in the United States.",
+        "Findings were presented at a faculty seminar in October 2022."
+      ],
+      "highlights": [
+        "Multi-source data collection from 3 discount card platforms",
+        "12 pharmacies across 4 zip codes, 16 drugs",
+        "Socioeconomic and pharmacy-type price variation analysis"
+      ],
+      "technologies": ["Python", "Pandas", "Data Collection", "Statistical Analysis"],
+      "links": []
+    },
+    {
+      "id": "mid-year-data-analysis",
+      "title": "Mid Year Data Analysis",
+      "year": "2022",
+      "category": "Personal Data Analytics",
+      "summary": "Collected and visualized ACCP residency and fellowship directory data by region.",
+      "description": [
+        "Python was used to collect, clean, and filter Mid-Year data from the ACCP residency and fellowship directory.",
+        "Results were published on Tableau Public to visualize pharmacy residencies and fellowships per region.",
+        "Methods and reproducible code are available on GitHub."
+      ],
+      "highlights": [
+        "Automated data collection and cleaning pipeline",
+        "Interactive Tableau Public dashboard",
+        "Open-source methods on GitHub"
+      ],
+      "technologies": ["Python", "Tableau", "Web Scraping", "Data Cleaning"],
+      "links": [
+        { "label": "Tableau Dashboard", "url": "https://public.tableau.com/app/profile/juan.hernandez7518/viz/PharmacyResidenciesandFellowshipsperRegion/Dashboard1" },
+        { "label": "GitHub", "url": "https://github.com/Jphjuan18/mid-year-data" }
+      ]
+    },
+    {
+      "id": "goodrx-analysis",
+      "title": "GoodRx Analysis",
+      "year": "2022",
+      "category": "Personal Data Analytics",
+      "summary": "Scraped, stored, and analyzed GoodRx medication pricing data.",
+      "description": [
+        "Python was used to collect medication names, prices, and pharmacy data from GoodRx.",
+        "Data was cleaned and loaded into a MySQL database for structured querying.",
+        "Exploratory data analysis was performed to answer questions about pricing patterns across medications and pharmacies."
+      ],
+      "highlights": [
+        "Web scraping pipeline for GoodRx pricing data",
+        "MySQL database for structured storage",
+        "Exploratory data analysis with published methods"
+      ],
+      "technologies": ["Python", "MySQL", "Web Scraping", "EDA"],
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/Jphjuan18/GoodRx" }
+      ]
+    },
+    {
+      "id": "mock-data-analysis",
+      "title": "Mock Data Analysis",
+      "year": "2022",
+      "category": "Personal Data Analytics",
+      "summary": "Clinical trial mock data cleaned in Python and visualized in Tableau.",
+      "description": [
+        "Mock clinical trial data was cleaned using Python before analysis.",
+        "Tableau Public was used to build a dashboard focusing on adverse event frequency, efficacy, serious adverse events (SAE) by dose, and adverse events of special interest (AESI) by dose."
+      ],
+      "highlights": [
+        "Python data cleaning workflow",
+        "Tableau dashboard for clinical trial metrics",
+        "Dose-response adverse event visualization"
+      ],
+      "technologies": ["Python", "Tableau", "Data Cleaning"],
+      "links": [
+        { "label": "Tableau Dashboard", "url": "https://public.tableau.com/app/profile/juan.hernandez7518/viz/MockDataResultsDashboard/Dashboard1" },
+        { "label": "Tableau Profile", "url": "https://public.tableau.com/app/profile/juan.hernandez7518" }
+      ]
+    }
+  ]
+}
