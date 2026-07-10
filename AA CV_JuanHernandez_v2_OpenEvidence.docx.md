@@ -28,7 +28,7 @@ Pharmacist-builder and commercial analytics strategist focused on clinician enga
 * **HCP Engagement Analytics:** Trigger strategy, HCP targeting & segmentation, DEP / dynamic engagement planning, digital & NPP engagement lists, predictive modeling (bio-naive / bio-experienced)
 * **Data, ML & Analytics:** Python, SQL, Scikit-learn, PySpark, multiple linear regression, Excel, Tableau, Streamlit
 * **Agentic AI:** Analytics agent frameworks (skill files, claims/source connectors), OpenAI, Azure OpenAI, AWS Bedrock, Langchain, Llamaindex, CrewAI, RAG pipelines
-* **Full-stack & Delivery:** React, Next.js, Flask, Streamlit; Tailwind CSS, Shadcn, MUI; Docker, Git/GitHub, AWS, Azure, Vercel, Railway
+* **Full-stack & Delivery:** React, Next.js, React Native, Expo, TypeScript, Flask, Streamlit; Tailwind CSS, Shadcn, MUI; Supabase, TanStack Query; Docker, Git/GitHub, AWS, Azure, Vercel, Railway; iOS / App Store
 
 ---
 
@@ -80,6 +80,12 @@ Pharmacist-builder and commercial analytics strategist focused on clinician enga
 ---
 
 # PROJECTS
+
+## Mobile / Full-stack
+
+| Project | Year |
+| :---- | :---- |
+| **[RIVLD](https://rivldapp.com/)** — React Native + Expo fitness app combining workout logging with competitive gym-territory gameplay (maps, leaderboards, points, Apple Sign In / Supabase). Built end to end and submitted to the Apple App Store. | 2025–2026 |
 
 ## Medical / Agentic AI (OpenEvidence-relevant)
 

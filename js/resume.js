@@ -11,9 +11,6 @@ function escapeHtml(text) {
 }
 
 function renderHero(hero) {
-  const locationNote = hero.locationNote
-    ? `<p class="hero-location">${escapeHtml(hero.locationNote)}</p>`
-    : "";
   return `
     <section class="hero">
       <div class="container hero-grid">
@@ -21,7 +18,6 @@ function renderHero(hero) {
           <div>
             <h1>${escapeHtml(hero.name)}</h1>
             <p class="subtitle">${escapeHtml(hero.title)}</p>
-            ${locationNote}
           </div>
           <div class="social-links">
             <a class="btn btn-primary" href="${escapeHtml(hero.github)}" target="_blank" rel="noopener noreferrer">
@@ -36,22 +32,6 @@ function renderHero(hero) {
         </div>
         <div class="hero-image">
           <img src="assets/headshot.png" alt="${escapeHtml(hero.name)}" width="600" height="600" />
-        </div>
-      </div>
-    </section>
-  `;
-}
-
-function renderSummary(summary) {
-  if (!summary) return "";
-  return `
-    <section id="summary">
-      <div class="container">
-        <h2 class="section-title">Summary</h2>
-        <div class="card">
-          <div class="card-body">
-            <p class="summary-text">${escapeHtml(summary)}</p>
-          </div>
         </div>
       </div>
     </section>
@@ -236,7 +216,6 @@ async function init() {
     const data = await loadResume();
     app.innerHTML =
       renderHero(data.hero) +
-      renderSummary(data.summary) +
       renderEducation(data.education) +
       renderExperience(data.experience) +
       renderAwards(data.awards) +

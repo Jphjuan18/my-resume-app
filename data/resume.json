@@ -5,10 +5,8 @@
     "email": "Jphjuan18@gmail.com",
     "phone": "303.725.6339",
     "linkedin": "https://www.linkedin.com/in/juanhernandezpharmd/",
-    "github": "https://github.com/Jphjuan18",
-    "locationNote": "Open to relocate — Miami, FL"
+    "github": "https://github.com/Jphjuan18"
   },
-  "summary": "Pharmacist-builder and commercial analytics strategist focused on clinician engagement, targeting, and agentic AI systems that put trusted medical information into practice. Combines hands-on product development (RAG agents, analytics agents, full-stack tools) with HCP engagement strategy (triggering, segmentation, digital/NPP target lists) in rare-disease commercial analytics at Johnson & Johnson. Early builder of a DailyMed-sourced medical AI search product (PalomaMed)—driven by a conviction that clinicians deserve fast, evidence-grounded answers at the point of care.",
   "education": [
     {
       "degree": "Doctor of Pharmacy",
@@ -39,7 +37,15 @@
   "skills": [
     {
       "category": "Healthcare & Commercial Datasets",
-      "items": ["Claims", "IQVIA", "MMIT", "CMS", "Definitive Healthcare", "Policy Reporter", "Veeva"]
+      "items": [
+        "Claims",
+        "IQVIA",
+        "MMIT",
+        "CMS",
+        "Definitive Healthcare",
+        "Policy Reporter",
+        "Veeva"
+      ]
     },
     {
       "category": "HCP Engagement Analytics",
@@ -53,7 +59,16 @@
     },
     {
       "category": "Data, ML & Analytics",
-      "items": ["Python", "SQL", "Scikit-learn", "PySpark", "Multiple Linear Regression", "Excel", "Tableau", "Streamlit"]
+      "items": [
+        "Python",
+        "SQL",
+        "Scikit-learn",
+        "PySpark",
+        "Multiple Linear Regression",
+        "Excel",
+        "Tableau",
+        "Streamlit"
+      ]
     },
     {
       "category": "Agentic AI",
@@ -72,7 +87,27 @@
     },
     {
       "category": "Full-stack & Delivery",
-      "items": ["React", "Next.js", "Flask", "Streamlit", "Tailwind CSS", "Shadcn", "MUI", "Docker", "Git/GitHub", "AWS", "Azure", "Vercel", "Railway"]
+      "items": [
+        "React",
+        "Next.js",
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "Flask",
+        "Streamlit",
+        "Tailwind CSS",
+        "Shadcn",
+        "MUI",
+        "Supabase",
+        "TanStack Query",
+        "Docker",
+        "Git/GitHub",
+        "AWS",
+        "Azure",
+        "Vercel",
+        "Railway",
+        "iOS / App Store"
+      ]
     }
   ],
   "experience": [
@@ -153,6 +188,35 @@
   ],
   "projects": [
     {
+      "id": "rivld",
+      "title": "RIVLD",
+      "year": "2025–2026",
+      "category": "Mobile / Full-stack",
+      "summary": "React Native + Expo fitness app combining workout logging with competitive gym-territory gameplay—built end to end and submitted to the Apple App Store.",
+      "description": [
+        "RIVLD is a React Native + Expo fitness tracking app that combines workout logging with competitive territory gameplay. Each gym is a territory where users compete for dominance through points earned from workouts.",
+        "Shipped end to end: Apple Sign In via Supabase Auth, profile onboarding, exercise logging (lifting, cardio, classes), auto-calculated points, interactive gym map, per-gym leaderboards, and achievements.",
+        "Backend on Supabase (PostgreSQL) with TanStack Query for client data management; submitted to the Apple App Store."
+      ],
+      "highlights": [
+        "React Native + Expo iOS app submitted to the App Store",
+        "Apple Sign In, Supabase Auth, and PostgreSQL backend",
+        "Gym map, territory leaderboards, and workout point system"
+      ],
+      "technologies": [
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "Supabase",
+        "TanStack Query",
+        "React Native Maps",
+        "Expo Router"
+      ],
+      "links": [
+        { "label": "Website", "url": "https://rivldapp.com/" }
+      ]
+    },
+    {
       "id": "palomamed-genai",
       "title": "PalomaMed",
       "year": "2024",
@@ -168,7 +232,14 @@
         "Natural language query interface for clinicians",
         "Early exploration of trusted medical information at the point of care"
       ],
-      "technologies": ["Python", "Langchain", "Agentic RAG", "Vector DB", "React", "Next.js"],
+      "technologies": [
+        "Python",
+        "Langchain",
+        "Agentic RAG",
+        "Vector DB",
+        "React",
+        "Next.js"
+      ],
       "links": []
     },
     {
@@ -187,7 +258,13 @@
         "Trigger impact assessment in 2 days vs. 2-week vendor sprint",
         "wAIHA target universe built in-house, avoiding $100K external spend"
       ],
-      "technologies": ["Python", "Agentic AI", "Skill Files", "Claims Data", "Analytics Pipelines"],
+      "technologies": [
+        "Python",
+        "Agentic AI",
+        "Skill Files",
+        "Claims Data",
+        "Analytics Pipelines"
+      ],
       "links": []
     }
   ]
