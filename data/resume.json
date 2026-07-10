@@ -1,12 +1,14 @@
 {
   "hero": {
     "name": "Juan Hernandez, PharmD",
-    "title": "Advanced Analytics Engagement Manager · PharmD · Data & AI",
+    "title": "Pharmacist-Builder · Commercial Analytics Strategist · Agentic AI",
     "email": "Jphjuan18@gmail.com",
     "phone": "303.725.6339",
     "linkedin": "https://www.linkedin.com/in/juanhernandezpharmd/",
-    "github": "https://github.com/Jphjuan18"
+    "github": "https://github.com/Jphjuan18",
+    "locationNote": "Open to relocate — Miami, FL"
   },
+  "summary": "Pharmacist-builder and commercial analytics strategist focused on clinician engagement, targeting, and agentic AI systems that put trusted medical information into practice. Combines hands-on product development (RAG agents, analytics agents, full-stack tools) with HCP engagement strategy (triggering, segmentation, digital/NPP target lists) in rare-disease commercial analytics at Johnson & Johnson. Early builder of a DailyMed-sourced medical AI search product (PalomaMed)—driven by a conviction that clinicians deserve fast, evidence-grounded answers at the point of care.",
   "education": [
     {
       "degree": "Doctor of Pharmacy",
@@ -36,36 +38,41 @@
   ],
   "skills": [
     {
-      "category": "Expertise with Large Pharmaceutical Datasets",
-      "items": ["MMIT", "Policy Reporter", "CMS", "IQVIA", "Definitive Healthcare"]
+      "category": "Healthcare & Commercial Datasets",
+      "items": ["Claims", "IQVIA", "MMIT", "CMS", "Definitive Healthcare", "Policy Reporter", "Veeva"]
     },
     {
-      "category": "Data Collecting, Cleaning and Analysis",
-      "items": ["Python", "SQL", "Microsoft Excel", "Scikit-learn", "PySpark"]
+      "category": "HCP Engagement Analytics",
+      "items": [
+        "Trigger Strategy",
+        "HCP Targeting & Segmentation",
+        "DEP / Dynamic Engagement Planning",
+        "Digital & NPP Engagement Lists",
+        "Predictive Modeling (Bio-naive / Bio-experienced)"
+      ]
     },
     {
-      "category": "Data Visualization and Presentation",
-      "items": ["Tableau", "Microsoft Excel", "Matplotlib", "Streamlit"]
+      "category": "Data, ML & Analytics",
+      "items": ["Python", "SQL", "Scikit-learn", "PySpark", "Multiple Linear Regression", "Excel", "Tableau", "Streamlit"]
     },
     {
-      "category": "Full-stack & UI Development",
-      "items": ["React", "Next.js", "Flask", "Streamlit", "Tailwind CSS", "Shadcn", "MUI"]
+      "category": "Agentic AI",
+      "items": [
+        "Analytics Agent Frameworks",
+        "Skill Files",
+        "Claims/Source Connectors",
+        "OpenAI",
+        "Azure OpenAI",
+        "AWS Bedrock",
+        "Langchain",
+        "Llamaindex",
+        "CrewAI",
+        "RAG Pipelines"
+      ]
     },
     {
-      "category": "GenAI",
-      "items": ["OpenAI", "Azure OpenAI", "AWS Bedrock", "Langchain", "Llamaindex", "CrewAI", "Flowise", "OpenAI Assistants"]
-    },
-    {
-      "category": "Vector DB",
-      "items": ["Postgres", "Chromadb", "Qdrant"]
-    },
-    {
-      "category": "Cloud Management",
-      "items": ["AWS", "Azure", "Google Cloud", "Vercel", "Railway", "Linode", "Docker", "Kubernetes", "Git", "GitHub", "BitBucket"]
-    },
-    {
-      "category": "Commercial Analytics & ML",
-      "items": ["Predictive Modeling", "Investment Mix Modeling", "HCP Targeting & Segmentation", "Veeva", "Multiple Linear Regression"]
+      "category": "Full-stack & Delivery",
+      "items": ["React", "Next.js", "Flask", "Streamlit", "Tailwind CSS", "Shadcn", "MUI", "Docker", "Git/GitHub", "AWS", "Azure", "Vercel", "Railway"]
     }
   ],
   "experience": [
@@ -76,14 +83,14 @@
       "startDate": "Mar 2025",
       "endDate": "Present",
       "responsibilities": [
-        "Developed and implemented a commercial HCP trigger strategy that proved 3.6x more effective than standard calls, generating an additional $3.3M in revenue while independently managing a $500K project budget.",
-        "Spearheaded commercial targeting initiatives, aligning brand, integrated analytics, sales, and deployment operations teams to ensure trigger and targeting strategies supported overarching brand goals.",
-        "Built and deployed an adaptive learner AI model utilizing multiple linear regression to optimize feature weights for DEP targeting, validating and refining methodology against primary competitors and early adopters.",
-        "Led commercial investment mix modeling and budget optimization scenarios, presenting channel-level historical performance and strategic deep dives directly to senior leadership.",
-        "Navigated complex edge cases and shifting field requirements by executing a hyper-targeted Q4 2025 campaign—reducing the target universe by 50%—and seamlessly transitioning to ML-optimized targeting in Q1 2026.",
-        "Co-developed advanced data analyses alongside the ZS team to drive overall feature and behavior understanding, utilizing metrics such as 6-month GMG patient counts and developing strategies to accurately evaluate HCPs with incomplete data.",
-        "Led comprehensive HCP segmentation initiatives designed to directly improve field recall and optimize targeted messaging.",
-        "Presented analytics enhancements and roadmap to the entire field team during Point of Action (POA) broadcasts; led weekly core stakeholder calls and monthly \"Winning with Veeva\" field insight sessions."
+        "HCP Trigger Strategy: Identified trigger opportunities and stood up a commercial trigger strategy; trigger calls ~3.5x more effective vs. non-triggered calls, contributing an estimated +$3.3M in revenue (independently managed ~$500K project budget).",
+        "Dynamic Engagement Plan (DEP): Helped design and evolve DEP engagement targeting; DEP accounted for 21% of total brand sales. Built an adaptive-learner regression model to optimize DEP feature weights for competitor writers and current adopters (replacing manual weighting).",
+        "Predictive Targeting: Enhanced bio-naive and bio-experienced predictive models via driver/barrier analysis and new features; raised bio-naive model precision to ~60% in a rare-disease setting.",
+        "Digital / NPP Omnichannel Targeting: Owns generation of NPP email and digital engagement target lists and partners with brand to shape non-personal promotion and digital engagement strategy.",
+        "insights.ai — Commercial Analytics Agent: Built an internal analytics agent framework (skill files connected to claims and source systems) to answer target-list and claims questions—compressing work that typically took external analytics (ZS) 2-week sprints into days. Examples: trigger impact assessment in 2 days (vs. a planned 2-week ZS sprint); built and prioritized the wAIHA (next indication) target universe in-house, avoiding a $100K external analytics build.",
+        "HCP Segmentation: Designed HCP segmentation for field targeting and messaging and partnered with brand to implement it in execution.",
+        "Engagement Mix / Channel Strategy: Supported engagement strategy with spend recommendations across DTC, sales force (SF), and NPP—informing where investment drives physician and patient engagement (digital as a growing lever).",
+        "Adoption & Field Enablement: Presented analytics roadmap in POA broadcasts; ran weekly stakeholder forums and field insight sessions to drive use of targeting and engagement tools."
       ]
     },
     {
@@ -93,27 +100,10 @@
       "startDate": "Jul 2023",
       "endDate": "Mar 2025",
       "responsibilities": [
-        "Developed and maintained a tracking dashboard using MMIT data to monitor live shifts during the PBM selling season, offering GTN teams insights into account movement trends and potential impacts on specific contracts.",
-        "Utilized CMS data to create Medicare plan sponsor profiles and assess annual enrollment trends, integrating metrics on enrollment, benchmark plans, coinsurance, copay, premiums, and stars for national payers.",
-        "Leveraged Clarivate, Definitive Healthcare, and Darwin databases, along with private equity sources, to inform stakeholders on strategic interests in urology practices with private equity ownership.",
-        "Delivered leadership presentations on formulary exclusions, private equity in healthcare, medical and oncology benefit managers, and payviders.",
-        "Led development and deployment of AI-driven solutions including MAIA Chat, a search and summary tool, from proof of concept to production.",
-        "Developed data pipelines for RAG applications integrating SharePoint, RSS feeds, public domain, and Amazon S3 data into vector databases.",
-        "Built automated document summarization and earnings call summary tools using NLP and generative AI.",
-        "Curated newsletters and alerts on market trends for 250+ stakeholders; managed syndicated vendor relationships and organized a market research vendor fair."
-      ]
-    },
-    {
-      "title": "Pharmacist",
-      "company": "Walgreens",
-      "location": "Burlington, NJ",
-      "startDate": "Nov 2024",
-      "endDate": "Mar 2025",
-      "responsibilities": [
-        "Provided patient-centered care including medication consultations, OTC recommendations, and insurance issue resolution.",
-        "Conducted medication therapy management reviews using evidence-based treatment guidelines.",
-        "Verified prescriptions for accuracy and safety; administered vaccinations and addressed adherence barriers.",
-        "Managed pharmacy operations including inventory, medication ordering, and regulatory compliance."
+        "Led end-to-end delivery of MAIA Chat, an agentic AI search-and-summary tool for market access intelligence—from proof of concept to production use.",
+        "Built RAG data pipelines integrating SharePoint, RSS, public domain, and S3 into vector databases; shipped automated document and earnings-call summarization with NLP / agentic AI.",
+        "Built MMIT and CMS-driven dashboards and payer profiles supporting GTN and market access decision-making during PBM selling season and Medicare enrollment.",
+        "Curated insights for 250+ stakeholders; managed syndicated vendors; earned RPIF awards for AI innovation in BI."
       ]
     },
     {
@@ -123,158 +113,82 @@
       "startDate": "Jan 2022",
       "endDate": "2023",
       "responsibilities": [
-        "Designed and launched tailored websites for various clients.",
-        "Developed an e-commerce platform for a fitness product with improved navigation and product presentation.",
-        "Built an Excel dashboard to track client purchasing patterns for a mortgage company."
+        "Shipped client websites and an e-commerce storefront; built analytics dashboards to surface purchasing patterns and sales opportunities."
       ]
-    },
-    {
-      "title": "Pharmacy Intern",
-      "company": "Kroger",
-      "location": "Denver, CO",
-      "startDate": "Jan 2018",
-      "endDate": "2023",
-      "responsibilities": []
     }
   ],
   "awards": [
     {
       "title": "RPIF Above and Beyond Award",
       "year": "2024",
-      "description": "Awarded for outstanding contributions in hosting a successful Vendor Day Fair and integrating AI innovations into the Business Intelligence function."
+      "description": "Vendor Day Fair leadership and AI innovations integrated into Business Intelligence."
     },
     {
       "title": "RPIF Celebration Award",
       "year": "2023",
-      "description": "Honored for pioneering work using AI for business intelligence, particularly the development and pilot of MAIA Chat."
+      "description": "Pioneering AI for BI; development and pilot of MAIA Chat."
     },
     {
       "title": "APPE Clinical Student of the Year",
       "year": "2023",
-      "description": "Awarded for outstanding performance and excellence in clinical practice during the Advanced Pharmacy Practice Experience (APPE)."
+      "description": "Excellence in clinical practice during the Advanced Pharmacy Practice Experience (APPE)."
     }
   ],
   "posters": [
     {
-      "title": "AI, NLP Applications in MR (primary, syndicated, secondary data)",
+      "title": "AI, NLP Applications in MR",
       "date": "Feb 2024",
-      "description": "Held a roundtable discussion at PMRC (Pharmaceutical Market Research Conference) on AI and NLP in market research, focusing on applications, use cases, safety, and hallucinations."
+      "description": "Roundtable at PMRC on AI/NLP in market research (use cases, safety, hallucinations)."
     },
     {
       "title": "Discount Card Analysis Presentation",
       "date": "Oct 2022",
-      "description": "Presented preliminary results of the discount card analysis conducted in conjunction with faculty preceptor."
+      "description": "Preliminary results presented in conjunction with faculty preceptor."
     },
     {
-      "title": "Seminar Presentation: Continuous Glucose Monitoring",
+      "title": "Seminar: Continuous Glucose Monitoring",
       "date": "Oct 2022",
-      "description": "Prepared a presentation on various continuous glucose monitors (CGMs) and benefits over traditional fingerstick glucose monitoring."
+      "description": "Evidence-based education for CGMs vs. fingerstick monitoring."
     }
   ],
   "projects": [
     {
       "id": "palomamed-genai",
-      "title": "PalomaMed GenAI Project",
+      "title": "PalomaMed",
       "year": "2024",
-      "category": "Web Development",
-      "summary": "Generative AI-powered search tool for veterinary medications using agentic RAG techniques.",
+      "category": "Medical / Agentic AI",
+      "summary": "Independent build of an agentic RAG product for clinicians sourcing structured drug labeling (e.g. DailyMed)—a pharmacist’s answer to slow, fragmented medical information lookup.",
       "description": [
-        "PalomaMed is a generative AI-powered search tool built to help users find and understand veterinary medication information through natural language queries.",
-        "The project applies agentic RAG (Retrieval-Augmented Generation) techniques to combine structured medication data with LLM-powered reasoning, enabling more accurate and contextual responses than a standard keyword search.",
-        "Note: The live database is currently disabled, but the application shell and UI remain accessible for demonstration."
+        "PalomaMed was an independent agentic RAG product built to help clinicians (and a veterinary use case) find and understand medication information through natural language queries, sourcing structured drug labeling such as DailyMed.",
+        "Conceived as a pharmacist’s answer to slow, fragmented medical information lookup—the same accessibility problem medical AI platforms now scale.",
+        "Product sunset after experimentation; architecture and product learning remain highly relevant to clinician-facing medical AI."
       ],
       "highlights": [
-        "Agentic RAG architecture for veterinary medication search",
-        "Natural language query interface",
-        "Full-stack web application with modern UI"
+        "Agentic RAG over structured drug labeling (DailyMed)",
+        "Natural language query interface for clinicians",
+        "Early exploration of trusted medical information at the point of care"
       ],
-      "technologies": ["Python", "Langchain", "RAG", "Vector DB", "React", "Next.js"],
-      "links": [
-        { "label": "Live Demo", "url": "https://www.palomamed.com/" }
-      ]
-    },
-    {
-      "id": "discount-card-analysis",
-      "title": "Discount Card Analysis",
-      "year": "2022",
-      "category": "Personal Data Analytics",
-      "summary": "Analyzed variation in discount card prices by pharmacy type, median income, and insured-to-uninsured ratio.",
-      "description": [
-        "This project examined how prescription discount card pricing varies across retail pharmacy types, neighborhood median income levels, and insured-to-uninsured population ratios.",
-        "Data was collected from GoodRx, SingleCare, and ScriptSave WellRx across 12 pharmacies in 4 zip codes, covering 16 different drugs in the United States.",
-        "Findings were presented at a faculty seminar in October 2022."
-      ],
-      "highlights": [
-        "Multi-source data collection from 3 discount card platforms",
-        "12 pharmacies across 4 zip codes, 16 drugs",
-        "Socioeconomic and pharmacy-type price variation analysis"
-      ],
-      "technologies": ["Python", "Pandas", "Data Collection", "Statistical Analysis"],
+      "technologies": ["Python", "Langchain", "Agentic RAG", "Vector DB", "React", "Next.js"],
       "links": []
     },
     {
-      "id": "mid-year-data-analysis",
-      "title": "Mid Year Data Analysis",
-      "year": "2022",
-      "category": "Personal Data Analytics",
-      "summary": "Collected and visualized ACCP residency and fellowship directory data by region.",
+      "id": "insights-ai",
+      "title": "insights.ai",
+      "year": "2025–2026",
+      "category": "Medical / Agentic AI",
+      "summary": "Commercial analytics agent with skill files over claims and targeting sources—compressing multi-week vendor analytics cycles into days.",
       "description": [
-        "Python was used to collect, clean, and filter Mid-Year data from the ACCP residency and fellowship directory.",
-        "Results were published on Tableau Public to visualize pharmacy residencies and fellowships per region.",
-        "Methods and reproducible code are available on GitHub."
+        "insights.ai is an internal commercial analytics agent framework with skill files connected to claims and source systems, built to answer target-list and claims questions for brand analytics.",
+        "Compressed work that typically took external analytics (ZS) 2-week sprints into days—including a trigger impact assessment in 2 days vs. a planned 2-week sprint.",
+        "Built and prioritized the wAIHA (next indication) target universe in-house, avoiding a $100K external analytics build."
       ],
       "highlights": [
-        "Automated data collection and cleaning pipeline",
-        "Interactive Tableau Public dashboard",
-        "Open-source methods on GitHub"
+        "Skill-file agent framework over claims and targeting sources",
+        "Trigger impact assessment in 2 days vs. 2-week vendor sprint",
+        "wAIHA target universe built in-house, avoiding $100K external spend"
       ],
-      "technologies": ["Python", "Tableau", "Web Scraping", "Data Cleaning"],
-      "links": [
-        { "label": "Tableau Dashboard", "url": "https://public.tableau.com/app/profile/juan.hernandez7518/viz/PharmacyResidenciesandFellowshipsperRegion/Dashboard1" },
-        { "label": "GitHub", "url": "https://github.com/Jphjuan18/mid-year-data" }
-      ]
-    },
-    {
-      "id": "goodrx-analysis",
-      "title": "GoodRx Analysis",
-      "year": "2022",
-      "category": "Personal Data Analytics",
-      "summary": "Scraped, stored, and analyzed GoodRx medication pricing data.",
-      "description": [
-        "Python was used to collect medication names, prices, and pharmacy data from GoodRx.",
-        "Data was cleaned and loaded into a MySQL database for structured querying.",
-        "Exploratory data analysis was performed to answer questions about pricing patterns across medications and pharmacies."
-      ],
-      "highlights": [
-        "Web scraping pipeline for GoodRx pricing data",
-        "MySQL database for structured storage",
-        "Exploratory data analysis with published methods"
-      ],
-      "technologies": ["Python", "MySQL", "Web Scraping", "EDA"],
-      "links": [
-        { "label": "GitHub", "url": "https://github.com/Jphjuan18/GoodRx" }
-      ]
-    },
-    {
-      "id": "mock-data-analysis",
-      "title": "Mock Data Analysis",
-      "year": "2022",
-      "category": "Personal Data Analytics",
-      "summary": "Clinical trial mock data cleaned in Python and visualized in Tableau.",
-      "description": [
-        "Mock clinical trial data was cleaned using Python before analysis.",
-        "Tableau Public was used to build a dashboard focusing on adverse event frequency, efficacy, serious adverse events (SAE) by dose, and adverse events of special interest (AESI) by dose."
-      ],
-      "highlights": [
-        "Python data cleaning workflow",
-        "Tableau dashboard for clinical trial metrics",
-        "Dose-response adverse event visualization"
-      ],
-      "technologies": ["Python", "Tableau", "Data Cleaning"],
-      "links": [
-        { "label": "Tableau Dashboard", "url": "https://public.tableau.com/app/profile/juan.hernandez7518/viz/MockDataResultsDashboard/Dashboard1" },
-        { "label": "Tableau Profile", "url": "https://public.tableau.com/app/profile/juan.hernandez7518" }
-      ]
+      "technologies": ["Python", "Agentic AI", "Skill Files", "Claims Data", "Analytics Pipelines"],
+      "links": []
     }
   ]
 }
