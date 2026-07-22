@@ -1,7 +1,7 @@
 {
   "hero": {
     "name": "Juan Hernandez, PharmD",
-    "title": "Pharmacist-Builder · Commercial Analytics Strategist · Agentic AI",
+    "title": "Commercial AI & Advanced Analytics · Agentic Systems · Full-stack Builder",
     "email": "Jphjuan18@gmail.com",
     "phone": "303.725.6339",
     "linkedin": "https://www.linkedin.com/in/juanhernandezpharmd/",
@@ -14,9 +14,9 @@
       "date": "May 2023"
     },
     {
-      "degree": "Board Certified Pharmacist (BCP), New Jersey",
-      "institution": "License Number: 28RI04405400",
-      "date": "Nov 2024"
+      "degree": "Anthropic Academy — Introduction to Model Context Protocol; Introduction to Agent Skills; Building with the Claude API",
+      "institution": null,
+      "date": "July 2026"
     },
     {
       "degree": "Foundations of Data Science for Machine Learning",
@@ -36,96 +36,79 @@
   ],
   "skills": [
     {
-      "category": "Healthcare & Commercial Datasets",
+      "category": "Agentic Frameworks",
       "items": [
-        "Claims",
-        "IQVIA",
-        "MMIT",
-        "CMS",
-        "Definitive Healthcare",
-        "Policy Reporter",
-        "Veeva"
-      ]
-    },
-    {
-      "category": "HCP Engagement Analytics",
-      "items": [
-        "Trigger Strategy",
-        "HCP Targeting & Segmentation",
-        "DEP / Dynamic Engagement Planning",
-        "Digital & NPP Engagement Lists",
-        "Predictive Modeling (Bio-naive / Bio-experienced)"
-      ]
-    },
-    {
-      "category": "Data, ML & Analytics",
-      "items": [
-        "Python",
-        "SQL",
-        "Scikit-learn",
-        "PySpark",
-        "Multiple Linear Regression",
-        "Excel",
-        "Tableau",
-        "Streamlit"
-      ]
-    },
-    {
-      "category": "Agentic AI",
-      "items": [
-        "Analytics Agent Frameworks",
-        "Skill Files",
-        "Claims/Source Connectors",
+        "Claude",
+        "Cursor",
         "OpenAI",
         "Azure OpenAI",
         "AWS Bedrock",
         "Langchain",
         "Llamaindex",
         "CrewAI",
-        "RAG Pipelines"
+        "Agent Harness Architectures (MCP servers / skill design)"
       ]
     },
     {
-      "category": "Full-stack & Delivery",
+      "category": "Commercial and Healthcare Data Proficiencies",
+      "items": [
+        "Lab, EHR and Claims Data",
+        "CMS",
+        "Definitive Healthcare",
+        "Veeva"
+      ]
+    },
+    {
+      "category": "Data Science, ML, and Analysis",
+      "items": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Microsoft Excel",
+        "Scikit-learn",
+        "PySpark",
+        "Tableau",
+        "Streamlit"
+      ]
+    },
+    {
+      "category": "Full-stack Engineering and Deployment",
       "items": [
         "React",
         "Next.js",
-        "React Native",
-        "Expo",
-        "TypeScript",
         "Flask",
         "Streamlit",
         "Tailwind CSS",
         "Shadcn",
         "MUI",
-        "Supabase",
-        "TanStack Query",
-        "Docker",
-        "Git/GitHub",
         "AWS",
         "Azure",
         "Vercel",
         "Railway",
-        "iOS / App Store"
+        "Docker",
+        "Git/GitHub",
+        "HTML",
+        "JavaScript"
       ]
     }
   ],
   "experience": [
     {
-      "title": "Advanced Analytics Engagement Manager",
+      "title": "Advanced Analytics Engagement Manager, Imaavy",
       "company": "Johnson & Johnson",
       "location": "Horsham, PA",
-      "startDate": "Mar 2025",
+      "startDate": "Apr 2025",
       "endDate": "Present",
       "responsibilities": [
-        "HCP Trigger Strategy: Identified trigger opportunities and stood up a commercial trigger strategy; trigger calls ~3.5x more effective vs. non-triggered calls, contributing an estimated +$3.3M in revenue (independently managed ~$500K project budget).",
-        "Dynamic Engagement Plan (DEP): Helped design and evolve DEP engagement targeting; DEP accounted for 21% of total brand sales. Built an adaptive-learner regression model to optimize DEP feature weights for competitor writers and current adopters (replacing manual weighting).",
-        "Predictive Targeting: Enhanced bio-naive and bio-experienced predictive models via driver/barrier analysis and new features; raised bio-naive model precision to ~60% in a rare-disease setting.",
-        "Digital / NPP Omnichannel Targeting: Owns generation of NPP email and digital engagement target lists and partners with brand to shape non-personal promotion and digital engagement strategy.",
-        "insights.ai — Commercial Analytics Agent: Built an internal analytics agent framework (skill files connected to claims and source systems) to answer target-list and claims questions—compressing work that typically took external analytics (ZS) 2-week sprints into days. Examples: trigger impact assessment in 2 days (vs. a planned 2-week ZS sprint); built and prioritized the wAIHA (next indication) target universe in-house, avoiding a $100K external analytics build.",
-        "HCP Segmentation: Designed HCP segmentation for field targeting and messaging and partnered with brand to implement it in execution.",
-        "Engagement Mix / Channel Strategy: Supported engagement strategy with spend recommendations across DTC, sales force (SF), and NPP—informing where investment drives physician and patient engagement (digital as a growing lever).",
-        "Adoption & Field Enablement: Presented analytics roadmap in POA broadcasts; ran weekly stakeholder forums and field insight sessions to drive use of targeting and engagement tools."
+        "HCP Trigger Strategy: Developed and aligned a commercial HCP trigger strategy that outperformed non-triggered calls and drove incremental brand revenue.",
+        "Dynamic Engagement Plan (DEP): Designed and evolved DEP targeting methodology supporting salesforce-driven sales performance.",
+        "Predictive Targeting: Partnered with data science on bio-naive / bio-experienced predictive models; generated new features from driver/barrier analysis that improved model performance.",
+        "Digital / NPP Omnichannel Targeting: Partnered with brand on non-personal promotion (NPP) email and digital engagement targeting.",
+        "insights.ai — Commercial Analytics Agent: Built an internal analytics agent (skill files over claims and source systems) that cut typical multi-week external analytics sprints to days—e.g., trigger impact assessments delivered in days vs. planned multi-week vendor sprints.",
+        "HCP Segmentation: Designed HCP segments for field targeting and messaging in conjunction with a cross-functional team.",
+        "Engagement Mix / Channel Strategy: Advised spend across DTC, sales force, and NPP to guide where investment drives incremental sales and forecast attainment.",
+        "Adoption & Field Enablement: Presented the targeting roadmap in POA broadcast; ran weekly stakeholder forums and field insight sessions to drive use of targeting and engagement tools."
       ]
     },
     {
@@ -135,10 +118,24 @@
       "startDate": "Jul 2023",
       "endDate": "Mar 2025",
       "responsibilities": [
-        "Led end-to-end delivery of MAIA Chat, an agentic AI search-and-summary tool for market access intelligence—from proof of concept to production use.",
-        "Built RAG data pipelines integrating SharePoint, RSS, public domain, and S3 into vector databases; shipped automated document and earnings-call summarization with NLP / agentic AI.",
+        "Led end-to-end delivery of MAIA Chat, a GenAI search-and-summary tool for market access intelligence—from proof of concept to production use.",
+        "Built RAG data pipelines integrating SharePoint, RSS, public domain, and S3 into vector databases; shipped automated document and earnings-call summarization with NLP / GenAI.",
         "Built MMIT and CMS-driven dashboards and payer profiles supporting GTN and market access decision-making during PBM selling season and Medicare enrollment.",
         "Curated insights for 250+ stakeholders; managed syndicated vendors; earned RPIF awards for AI innovation in BI."
+      ]
+    },
+    {
+      "title": "Pharmacist",
+      "company": "Walgreens",
+      "location": "Burlington, NJ",
+      "startDate": "Nov 2024",
+      "endDate": "Mar 2025",
+      "responsibilities": [
+        "Provided patient-centered care, including medication consultations, OTC recommendations, and insurance issue resolution.",
+        "Conducted medication therapy management reviews utilizing evidence-based treatment guidelines.",
+        "Verified prescriptions for accuracy and safety, including pre-verification of technician-typed scripts and final checks of filled medications.",
+        "Administered vaccinations and addressed barriers to medication adherence.",
+        "Managed pharmacy operations, including inventory, medication ordering, and regulatory compliance."
       ]
     },
     {
@@ -166,23 +163,23 @@
     {
       "title": "APPE Clinical Student of the Year",
       "year": "2023",
-      "description": "Excellence in clinical practice during the Advanced Pharmacy Practice Experience (APPE)."
+      "description": "Excellence in clinical practice during APPE."
     }
   ],
   "posters": [
     {
       "title": "AI, NLP Applications in MR",
-      "date": "Feb 2024",
+      "date": "2024",
       "description": "Roundtable at PMRC on AI/NLP in market research (use cases, safety, hallucinations)."
     },
     {
       "title": "Discount Card Analysis Presentation",
-      "date": "Oct 2022",
-      "description": "Preliminary results presented in conjunction with faculty preceptor."
+      "date": "2022",
+      "description": "Preliminary results with faculty preceptor."
     },
     {
       "title": "Seminar: Continuous Glucose Monitoring",
-      "date": "Oct 2022",
+      "date": "2022",
       "description": "Evidence-based education for CGMs vs. fingerstick monitoring."
     }
   ],
@@ -191,7 +188,7 @@
       "id": "rivld",
       "title": "RIVLD",
       "year": "2025–2026",
-      "category": "Mobile / Full-stack",
+      "category": "Web Development Projects",
       "summary": "React Native + Expo fitness app combining workout logging with competitive gym-territory gameplay—built end to end and submitted to the Apple App Store.",
       "description": [
         "RIVLD is a React Native + Expo fitness tracking app that combines workout logging with competitive territory gameplay. Each gym is a territory where users compete for dominance through points earned from workouts.",
@@ -217,15 +214,45 @@
       ]
     },
     {
+      "id": "nfl-agent",
+      "title": "NFL Agent",
+      "year": "2026",
+      "category": "Web Development Projects",
+      "summary": "Personal agentic Q&A product on nflverse data with LangChain Deep Agents, FastAPI, and a React/Vite Teams/Chat/Players UI—deployed on Vercel.",
+      "description": [
+        "Personal agentic Q&A product on nflverse data: LangChain Deep Agents + tool layer (teams, rosters, stats, constrained SQL), FastAPI backend, React/Vite + Tailwind (shadcn-style) Teams/Chat/Players UI.",
+        "Deployed on Vercel (web + API services, build-time SQLite refresh).",
+        "Demonstrates end-to-end agent harness design transferable to MCP / skill-based architectures."
+      ],
+      "highlights": [
+        "LangChain Deep Agents with a structured tool layer over nflverse data",
+        "FastAPI backend + React/Vite Teams, Chat, and Players UI",
+        "Vercel deploy with build-time SQLite refresh; MCP-transferable harness design"
+      ],
+      "technologies": [
+        "Python",
+        "LangChain",
+        "Deep Agents",
+        "FastAPI",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "SQLite",
+        "Vercel"
+      ],
+      "links": [
+        { "label": "Live App", "url": "https://nfl-agent-kappa.vercel.app/" }
+      ]
+    },
+    {
       "id": "palomamed-genai",
       "title": "PalomaMed",
       "year": "2024",
-      "category": "Medical / Agentic AI",
-      "summary": "Independent build of an agentic RAG product for clinicians sourcing structured drug labeling (e.g. DailyMed)—a pharmacist’s answer to slow, fragmented medical information lookup.",
+      "category": "Web Development Projects",
+      "summary": "Independent build of a GenAI / agentic RAG product for clinicians sourcing structured drug labeling (e.g. DailyMed).",
       "description": [
-        "PalomaMed was an independent agentic RAG product built to help clinicians (and a veterinary use case) find and understand medication information through natural language queries, sourcing structured drug labeling such as DailyMed.",
-        "Conceived as a pharmacist’s answer to slow, fragmented medical information lookup—the same accessibility problem medical AI platforms now scale.",
-        "Product sunset after experimentation; architecture and product learning remain highly relevant to clinician-facing medical AI."
+        "Independent build of a GenAI / agentic RAG product for clinicians (and veterinary use case) sourcing structured drug labeling (e.g. DailyMed).",
+        "Conceived as a pharmacist’s answer to slow, fragmented medical information lookup—the same accessibility problem OpenEvidence now scales."
       ],
       "highlights": [
         "Agentic RAG over structured drug labeling (DailyMed)",
@@ -246,17 +273,16 @@
       "id": "insights-ai",
       "title": "insights.ai",
       "year": "2025–2026",
-      "category": "Medical / Agentic AI",
+      "category": "Web Development Projects",
       "summary": "Commercial analytics agent with skill files over claims and targeting sources—compressing multi-week vendor analytics cycles into days.",
       "description": [
-        "insights.ai is an internal commercial analytics agent framework with skill files connected to claims and source systems, built to answer target-list and claims questions for brand analytics.",
-        "Compressed work that typically took external analytics (ZS) 2-week sprints into days—including a trigger impact assessment in 2 days vs. a planned 2-week sprint.",
-        "Built and prioritized the wAIHA (next indication) target universe in-house, avoiding a $100K external analytics build."
+        "Internal commercial analytics agent framework with skill files connected to claims and source systems, built to answer target-list and claims questions for brand analytics.",
+        "Compressed work that typically took external analytics multi-week sprints into days—including trigger impact assessments delivered in days vs. planned multi-week vendor sprints."
       ],
       "highlights": [
         "Skill-file agent framework over claims and targeting sources",
-        "Trigger impact assessment in 2 days vs. 2-week vendor sprint",
-        "wAIHA target universe built in-house, avoiding $100K external spend"
+        "Trigger impact assessments in days vs. multi-week vendor sprints",
+        "In-house target-universe builds that reduced reliance on external analytics"
       ],
       "technologies": [
         "Python",
