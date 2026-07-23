@@ -101,14 +101,15 @@
       "startDate": "Apr 2025",
       "endDate": "Present",
       "responsibilities": [
-        "HCP Trigger Strategy: Developed and aligned a commercial HCP trigger strategy that outperformed non-triggered calls and drove incremental brand revenue.",
-        "Dynamic Engagement Plan (DEP): Designed and evolved DEP targeting methodology supporting salesforce-driven sales performance.",
-        "Predictive Targeting: Partnered with data science on bio-naive / bio-experienced predictive models; generated new features from driver/barrier analysis that improved model performance.",
-        "Digital / NPP Omnichannel Targeting: Partnered with brand on non-personal promotion (NPP) email and digital engagement targeting.",
-        "insights.ai — Commercial Analytics Agent: Built an internal analytics agent (skill files over claims and source systems) that cut typical multi-week external analytics sprints to days—e.g., trigger impact assessments delivered in days vs. planned multi-week vendor sprints.",
-        "HCP Segmentation: Designed HCP segments for field targeting and messaging in conjunction with a cross-functional team.",
+        "HCP Trigger Strategy: Developed and aligned a commercial HCP trigger strategy with brand and field that outperformed non-triggered calls and drove incremental brand revenue.",
+        "Dynamic Engagement Plan (DEP): Designed and evolved DEP targeting methodology with brand and sales leadership to support salesforce-driven sales performance.",
+        "Predictive Targeting: Partnered with data science on bio-naive / bio-experienced models; used driver/barrier analysis to add features that better identified high-potential HCPs for field prioritization.",
+        "Commercial Analytics Agent: Built a skill-based analytics agent and data pipelines so brand and field questions could be answered in days instead of multi-week vendor sprints. Used it to automate DM reports, field / trigger / FEA workbooks for coaching, ad hoc analyses, and segmentation experiments; extended delivery with Excel plus HTML dashboards for stakeholder-ready views.",
+        "Next-Indication Target Universe & Pipeline: Designed and built a next-indication HCP target universe and SQL pipeline with the analytics agent—reducing reliance on external analytics builds—to inform go-to-market targeting options ahead of budget confirmation and create a reusable approach for future indications.",
         "Engagement Mix / Channel Strategy: Advised spend across DTC, sales force, and NPP to guide where investment drives incremental sales and forecast attainment.",
-        "Adoption & Field Enablement: Presented the targeting roadmap in POA broadcast; ran weekly stakeholder forums and field insight sessions to drive use of targeting and engagement tools."
+        "Adoption & Field Enablement: Presented the targeting roadmap in POA broadcast; ran weekly stakeholder forums and regular field connects to gather feedback on targeting and trigger strategy, then used those insights to refine engagement tools and drive adoption.",
+        "Digital / NPP Omnichannel Targeting: Built and refreshed NPP email and digital engagement target lists; partnered with brand to shape who we reach in non-personal channels and how they complement field calls.",
+        "HCP Segmentation: Led segmentation analytics using claims and market research; designed HCP segments for field targeting and messaging and aligned brand and cross-functional partners on execution."
       ]
     },
     {
@@ -164,9 +165,19 @@
       "title": "APPE Clinical Student of the Year",
       "year": "2023",
       "description": "Excellence in clinical practice during APPE."
+    },
+    {
+      "title": "Rho Chi (Delta Psi) & Dean’s List",
+      "year": "2021–2023",
+      "description": "Recognized for distinguished academic and professional achievement."
     }
   ],
   "posters": [
+    {
+      "title": "MAIA Chat Demo — CEDT Town Hall",
+      "date": "2024",
+      "description": "Presented and demoed MAIA Chat to the CEDT team."
+    },
     {
       "title": "AI, NLP Applications in MR",
       "date": "2024",

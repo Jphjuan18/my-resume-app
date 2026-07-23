@@ -8,25 +8,25 @@ A static resume and portfolio site built with plain HTML, CSS, and JavaScript. D
 
 ## CV Workshop
 
-This repo is the home base for keeping your resume up to date.
+This repo powers the public resume site. Tailored markdown CVs (`AA CV*.md`) stay **local only** (gitignored) so internal metrics are not published.
 
 | File | Purpose |
 |---|---|
-| `AA CV_JuanHernandez.docx.md` | Master CV document — edit here when tailoring for roles or adding new experience |
-| `data/resume.json` | Structured data that powers the website |
+| `AA CV*.md` (local) | Private / tailored CV drafts — not committed |
+| `data/resume.json` | Sanitized structured data that powers the website |
 | `project.html` | Dynamic project deep-dive pages (loaded from JSON by project `id`) |
 
 ### Workflow
 
-1. **Update your CV** — Edit `AA CV_JuanHernandez.docx.md` with new roles, skills, or bullet points.
-2. **Sync to the site** — Mirror changes into `data/resume.json` (hero, education, experience, awards, posters, projects).
+1. **Update your private CV** — Edit local `AA CV*.md` drafts as needed (kept off GitHub).
+2. **Sync a sanitized version to the site** — Mirror public-safe changes into `data/resume.json` (hero, education, experience, awards, posters, projects). Scrub sensitive commercial metrics before publishing.
 3. **Expand project details** — Add or edit entries in the `projects` array. Each project supports:
    - `id` — URL slug used in `project.html?id=your-slug`
    - `summary` — Short blurb shown on the home page card
    - `description` — Array of paragraphs for the deep-dive page
    - `highlights`, `technologies`, `links` — Optional detail sections
 4. **Preview locally** — See [Local preview](#local-preview) below.
-5. **Deploy** — Push to `static-html-gh-pages` (or merge to `main` when ready).
+5. **Deploy** — Commit and push to `static-html-gh-pages` (GitHub Pages source). Optionally fast-forward `main` to match; Pages stays on `static-html-gh-pages`.
 
 ---
 

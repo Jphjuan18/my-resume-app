@@ -5,3 +5,7 @@
 
 # Editor
 *.sw.local
+
+# Private / tailored resume drafts (local only — do not publish)
+AA CV*.md
+AA\ CV*.md
