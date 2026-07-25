@@ -225,6 +225,40 @@
       ]
     },
     {
+      "id": "ibd-landscape-agent",
+      "title": "IBD Landscape Agent",
+      "year": "2026",
+      "category": "Web Development Projects",
+      "summary": "Agentic IBD competitive-landscape app: therapy matrix, UC/CD treatment journey, Open Payments counts, and label-grounded Q&A over openFDA / DailyMed.",
+      "description": [
+        "Educational GI / IBD competitive landscape app: Landscape matrix, UC/CD treatment-journey scrollytelling, drug label viewer, side-by-side compare, Open Payments brand counts, and agentic chat grounded on public FDA labeling.",
+        "Built with React/Vite + Tailwind sidebar shell, FastAPI tool APIs, SQLite cache, and Deep Agents—same harness pattern as NFL Agent, deployable on Vercel.",
+        "Covers Tremfya, Skyrizi, Stelara, Omvoh, Entyvio, and Rinvoq for UC/CD class, induction, and label-section Q&A. Not medical advice; not affiliated with manufacturers."
+      ],
+      "highlights": [
+        "Public-label competitive matrix for major IBD advanced therapies",
+        "UC/CD disease journey scrollytelling + CMS Open Payments counts",
+        "Tool-using agent for label-grounded landscape Q&A (Deep Agents + FastAPI)"
+      ],
+      "technologies": [
+        "Python",
+        "Deep Agents",
+        "FastAPI",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "SQLite",
+        "openFDA",
+        "DailyMed",
+        "CMS Open Payments",
+        "Vercel"
+      ],
+      "links": [
+        { "label": "Live App", "url": "https://ibd-landscape-agent.vercel.app/" },
+        { "label": "Source", "url": "https://github.com/Jphjuan18/ibd-landscape-agent" }
+      ]
+    },
+    {
       "id": "nfl-agent",
       "title": "NFL Agent",
       "year": "2026",
@@ -252,7 +286,8 @@
         "Vercel"
       ],
       "links": [
-        { "label": "Live App", "url": "https://nfl-agent-kappa.vercel.app/" }
+        { "label": "Live App", "url": "https://nfl-agent-kappa.vercel.app/" },
+        { "label": "Source", "url": "https://github.com/Jphjuan18/nfl-agent" }
       ]
     },
     {
