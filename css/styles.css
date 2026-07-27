@@ -304,17 +304,6 @@ section + section {
   padding: 1.25rem;
 }
 
-.grid-2 {
-  display: grid;
-  gap: 1.25rem;
-}
-
-@media (min-width: 768px) {
-  .grid-2 {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
 /* Education */
 .edu-list {
   list-style: none;
@@ -359,19 +348,7 @@ section + section {
   color: #3730a3;
 }
 
-/* Skills */
-.skill-group + .skill-group {
-  margin-top: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--border);
-}
-
-.skill-category {
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  font-size: 0.875rem;
-}
-
+/* Project technologies */
 .skill-tags {
   display: flex;
   flex-wrap: wrap;

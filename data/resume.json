@@ -34,65 +34,6 @@
       "date": "Apr 2022"
     }
   ],
-  "skills": [
-    {
-      "category": "Agentic Frameworks",
-      "items": [
-        "Claude",
-        "Cursor",
-        "OpenAI",
-        "Azure OpenAI",
-        "AWS Bedrock",
-        "Langchain",
-        "Llamaindex",
-        "CrewAI",
-        "Agent Harness Architectures (MCP servers / skill design)"
-      ]
-    },
-    {
-      "category": "Commercial and Healthcare Data Proficiencies",
-      "items": [
-        "Lab, EHR and Claims Data",
-        "CMS",
-        "Definitive Healthcare",
-        "Veeva"
-      ]
-    },
-    {
-      "category": "Data Science, ML, and Analysis",
-      "items": [
-        "Python",
-        "SQL",
-        "Pandas",
-        "NumPy",
-        "Microsoft Excel",
-        "Scikit-learn",
-        "PySpark",
-        "Tableau",
-        "Streamlit"
-      ]
-    },
-    {
-      "category": "Full-stack Engineering and Deployment",
-      "items": [
-        "React",
-        "Next.js",
-        "Flask",
-        "Streamlit",
-        "Tailwind CSS",
-        "Shadcn",
-        "MUI",
-        "AWS",
-        "Azure",
-        "Vercel",
-        "Railway",
-        "Docker",
-        "Git/GitHub",
-        "HTML",
-        "JavaScript"
-      ]
-    }
-  ],
   "experience": [
     {
       "title": "Advanced Analytics Engagement Manager, Imaavy",

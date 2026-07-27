@@ -52,39 +52,17 @@ function renderEducation(education) {
     .join("");
 
   return `
-    <section id="education-and-skills">
+    <section id="education">
       <div class="container">
         <h2 class="section-title">Education &amp; Licensure</h2>
-        <div class="grid-2">
-          <div class="card">
-            <div class="card-header">Education</div>
-            <div class="card-body">
-              <ul class="edu-list">${items}</ul>
-            </div>
-          </div>
-          <div class="card" id="skills-card">
-            <div class="card-header">Technical Skills</div>
-            <div class="card-body" id="skills-body"></div>
+        <div class="card">
+          <div class="card-body">
+            <ul class="edu-list">${items}</ul>
           </div>
         </div>
       </div>
     </section>
   `;
-}
-
-function renderSkills(skills) {
-  return skills
-    .map(
-      (group) => `
-      <div class="skill-group">
-        <div class="skill-category">${escapeHtml(group.category)}</div>
-        <div class="skill-tags">
-          ${group.items.map((item) => `<span class="badge badge-secondary">${escapeHtml(item)}</span>`).join("")}
-        </div>
-      </div>
-    `
-    )
-    .join("");
 }
 
 function renderExperience(experience) {
@@ -216,14 +194,13 @@ async function init() {
     const data = await loadResume();
     app.innerHTML =
       renderHero(data.hero) +
-      renderEducation(data.education) +
+      renderProjects(data.projects) +
       renderExperience(data.experience) +
+      renderEducation(data.education) +
       renderAwards(data.awards) +
       renderPosters(data.posters) +
-      renderProjects(data.projects) +
       renderFooter(data.hero);
 
-    document.getElementById("skills-body").innerHTML = renderSkills(data.skills);
     document.title = `${data.hero.name} — Resume`;
   } catch (err) {
     app.innerHTML = `<div class="error">Failed to load resume. ${escapeHtml(err.message)}</div>`;
